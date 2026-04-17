@@ -231,5 +231,5 @@ The goal of this repository is simple: build intuition through implementation. E
 
 <p align="center">
   <i>Created for learning, experimentation, and continuous improvement.</i><br />
-  <b>GitHub Copilot</b> · <b>Machine Learning Playground</b>
+  <b>Machine Learning Playground</b>
 </p>
