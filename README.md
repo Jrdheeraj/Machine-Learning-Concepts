@@ -1,4 +1,4 @@
-# Machine Learning Playground
+<h1 align="center">Machine Learning Playground</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-0f766e?style=for-the-badge" alt="Focus badge" />
